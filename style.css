@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+    font-family:verdana;
+    background-color:black;
+  }
+  img {
+    width:500px;
+    height:500px;
+  }
+  
+  .image-section {
+    display: flex;
+    justify-content:center;
+  }
+  
+  .section-style {
+     magin-left: 25px;
+    margin-right:25px;
+    background-color: white;
+  }
+  
+  div {
+    margin-top: 20px;
+  }
+  
+  h1 {
+    color: white;
+  }
